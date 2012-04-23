@@ -1,0 +1,14 @@
+<mime-info 
+     xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+
+<start id="sub_class_of"/> 
+<mime-type type="application/vnd.apple.keynote">  <co id="sco_keynote"/>
+  <sub-class-of type="application/zip"/>
+</mime-type>
+
+<mime-type type="application/xml">                <co id="sco_xml"/>
+  <sub-class-of type="text/plain"/>
+</mime-type>
+<end id="sub_class_of"/>
+
+</mime-info>

@@ -1,0 +1,8 @@
+<start id="prescription_document"/>
+<xpd:prescription xmlns:xpd="http://example.com/2011/xpd">
+  <xpd:doctor>...</xpd:doctor>
+  <xpd:patient>...</xpd:patient>
+  <xpd:medicine>...</xpd:medicine>
+  <xpd:instructions>...</xpd:instructions>
+</xpd:prescription>
+<end id="prescription_document"/>
